@@ -1,6 +1,6 @@
 # TS and React API EXAMPLE Project
 
-## A fully functional EXAMPLE project written in TS/React
+## A fully functional EXAMPLE project written in TS / React
 
 This was created to better understand TS within React.
 
