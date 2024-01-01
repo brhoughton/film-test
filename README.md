@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TypeScript/React Film Quiz
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple quiz focused on movie trivia.
 
 ## Available Scripts
 
