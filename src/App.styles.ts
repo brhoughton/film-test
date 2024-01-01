@@ -25,14 +25,17 @@ export const Wrapper = styled.div`
   flex-direction: column;
   align-items: center;
 
-  > p {
-    color: #fff;
+  p {
+    font-family: "Merriweather", serif;
+    color: #212121;
+    line-height: 30px;
   }
 
   .score {
-    color: #fff;
-    font-size: 2rem;
-    margin: 0;
+    font-family: "Merriweather", serif;
+    color: #212121;
+    font-size: 32px;
+    margin: 5px;
   }
 
   h1 {
@@ -42,5 +45,21 @@ export const Wrapper = styled.div`
     font-weight: 900;
     text-align: center;
     margin: 20px;
+  }
+
+  .start,
+  .next {
+    font-family: "Merriweather", serif;
+    cursor: pointer;
+    background: linear-gradient(180deg, #f34141, #a42c2c);
+    border: 2px;
+    border-radius: 5px;
+    height: 40px;
+    margin: 20px 0;
+    padding: 0 40px;
+  }
+
+  .start {
+    max-width: 200px;
   }
 `;
