@@ -1,10 +1,15 @@
-# TS and React API EXAMPLE Project
+# React Quiz App
 
-## A fully functional EXAMPLE project written in TS / React
+App for movie trivia.
 
-This was created to better understand TS within React.
+## Description
 
-The goal was create a simple quiz that implented an API and tracked state from question to question.
+This is a fully functioning quiz app with a focus on movie trivia. This calls an API and generates questions with correct and incorrect answers. Score is tracked via state.
+
+### Dependencies
+
+- TypeScript 5.3.3
+- React 18.2.0
 
 ### `npm start`
 
